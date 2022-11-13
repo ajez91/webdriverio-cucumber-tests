@@ -11,4 +11,4 @@ Feature: Demo feature
         Examples:
              | TestID | SearchItem | ExpectedURL |
              | DEMO_TC001  | WDIO  | https://webdriver.io/  |
-             | DEMO_TC001  | CUCUMBER  | https://cucumber.io/  |
+             | DEMO_TC002  | CUCUMBER  | https://cucumber.io/  |
